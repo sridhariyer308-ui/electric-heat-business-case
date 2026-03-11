@@ -109,7 +109,7 @@ All assumptions are documented in `data/data_sources.csv`. Key sources:
 | Gas CO₂ factor 0.202 kg/kWh | IPCC AR6 / GHG Protocol |
 | Grid CO₂ factor 0.095 kg/kWh | European Environment Agency 2025 |
 
-Full list with URLs: [`data/data_sources.csv`](data/data_sources.csv)
+
 
 ---
 
